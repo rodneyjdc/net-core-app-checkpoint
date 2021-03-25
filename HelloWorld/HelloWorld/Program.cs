@@ -11,6 +11,8 @@ namespace HelloWorld
         {
             ["Profile:UserName"] = Environment.UserName,
             [$"AppConfiguration:ConnectionString"] = DefaultConnectionString,
+            [$"AppConfiguration:AltWindow:Width"] = "10",
+            [$"AppConfiguration:AltWindow:Height"] = "20",
         };
         static public IConfiguration Configuration { get; set; }
         public static void Main(string[] args = null)
@@ -25,6 +27,9 @@ namespace HelloWorld
             Console.SetWindowSize(Int32.Parse(Configuration["AppConfiguration:MainWindow:Width"]), (Int32.Parse(Configuration["AppConfiguration:MainWindow:Height"])));
             Console.WriteLine($"Hello {Configuration["Profile:UserName"]}");
             Console.WriteLine($"Main window width: {Configuration["AppConfiguration:MainWindow:Width"]}");
+            Console.WriteLine($"Main window height: {Configuration["AppConfiguration:MainWindow:Height"]}");
+            Console.WriteLine($"Alt window width: {Configuration["AppConfiguration:AltWindow:Width"]}");
+            Console.WriteLine($"Alt window height: {Configuration["AppConfiguration:AltWindow:Height"]}");
 
             Console.WriteLine($"{Configuration["message"]}");
             Console.ReadKey();
