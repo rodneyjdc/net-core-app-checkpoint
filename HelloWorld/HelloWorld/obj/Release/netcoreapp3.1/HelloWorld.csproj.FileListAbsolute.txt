@@ -8,3 +8,15 @@ C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-asses
 C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
 C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.dll
 C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.pdb
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Rodney\Desktop\LTI Resources\training projects\course-checkpoints-assessments\netcore\net-core-app-checkpoint\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.csproj.CopyComplete
